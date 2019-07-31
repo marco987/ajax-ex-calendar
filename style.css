@@ -44,3 +44,12 @@ body {
 #mese {
   font-size: 2em;
 }
+
+#giorni span {
+  display: block;
+}
+
+.festivo {
+  color: red;
+  font-weight: bold;
+}
